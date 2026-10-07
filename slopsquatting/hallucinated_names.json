@@ -1,0 +1,12 @@
+{
+  "_note": "REPLACE these samples with names YOU harvested from AI chatbots (see HARVEST_GUIDE.md). Format: 'invented-name': 'real package it probably meant' (or empty string).",
+  "pypi": {
+    "pdf-reader-pro": "pypdf",
+    "easy-excel-reader": "openpyxl",
+    "fastapi-auth-helper": "fastapi-users"
+  },
+  "npm": {
+    "express-auth-helper": "passport",
+    "easy-json-validator": "zod"
+  }
+}
